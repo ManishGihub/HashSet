@@ -13,6 +13,7 @@ public class Hashset{
         System.out.println(set);
 
         System.out.println(set.contains(3));
+        
         System.out.println(set.contains(5));
 
         set.remove(4);
