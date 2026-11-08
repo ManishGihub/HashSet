@@ -18,6 +18,7 @@ public class Hashset{
         System.out.println(set.contains(5));
 
         set.remove(4);
+        
         System.out.println(set);
 
         //Iterator
